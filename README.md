@@ -1,12 +1,12 @@
 Download to the installer:
 
-https://drive.google.com/open?id=1THgwYh3iU2Xn3zy4BiS7gCpMTodDPWIS
+https://drive.google.com/open?id=1WeodAkWBd8NRVLTX-tfU536IG1CWS4pO
 
 Instructions:
 
 1. Download the installer
 
-2. Unzip, using either WinRar's Extract to Installer\ or Windows Explorer's unzip feature
+2. Unzip, using either WinRar's Extract here or Windows Explorer's unzip feature
 
 3. If you have Git installed already, ignore this:
    Ez Installer will install Git (Required to continue)
