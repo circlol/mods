@@ -1,6 +1,6 @@
 Download to the installer:
 
-https://drive.google.com/open?id=1THgwYh3iU2Xn3zy4BiS7gCpMTodDPWIS
+https://drive.google.com/open?id=1WeodAkWBd8NRVLTX-tfU536IG1CWS4pO
 
 Instructions:
 
