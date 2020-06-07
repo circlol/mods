@@ -1,6 +1,6 @@
 Download to the installer:
 
-https://drive.google.com/open?id=1WeodAkWBd8NRVLTX-tfU536IG1CWS4pO
+https://drive.google.com/file/d/1cJOe9HCAHypDaxmrgCRB9TIPjpWxLaW4/view?usp=sharing
 
 Instructions:
 
@@ -8,7 +8,9 @@ Instructions:
 
 2. Unzip, using either WinRar's Extract here or Windows Explorer's unzip feature
 
-3. If you have Git installed already, ignore this:
+3. Run Mike's Pack.bat, and follow the setup steps
+
+3.5. If you have Git installed already, ignore this:
    Ez Installer will install Git (Required to continue)
    After it finishes, the Installer will exit, reopen the installer and continue to the next step
    
